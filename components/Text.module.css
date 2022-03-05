@@ -1,0 +1,18 @@
+
+  .text {
+    margin: 0;
+    line-height: 0.5;
+    font-size: 2rem;
+    color:lavender
+  }
+  
+  .text,
+  .description {
+    text-align: center;
+  }
+  
+  .description {
+    margin: 2rem 0;
+    line-height: 1.5;
+    font-size: 1rem;
+  }
