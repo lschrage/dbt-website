@@ -81,7 +81,8 @@
   font-size: 2rem;
   color:#ecbfd3;
   display: block;
- 
+  text-align: center;
+
 
 }
 
@@ -148,7 +149,7 @@
 
 .newFooter {
   margin: 0;
-  line-height: 0.5;
+  line-height: 1rem;
   font-size: 1rem;
   color:#b0c4a8;
   margin-top: 2rem;
@@ -157,6 +158,7 @@
   margin-left: auto;
   margin-right: auto;
   width: 60%;
+  
 }
 
 .end {
@@ -165,6 +167,7 @@
   font-size: 0.5rem;
   margin-left:0.5rem;
   margin-right:0.5rem;
-  left:43%
+  left: 47%;
+  text-align: center;
 }
 

@@ -6,7 +6,7 @@ import Button from '../components/Button.js';
   
   class Text extends React.Component {
     state = {
-        msg: "",
+        msg: "practice coping strategies!",
 
     }
   
