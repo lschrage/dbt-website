@@ -15,7 +15,7 @@ export default function Home() {
       <div className={styles.bgWrap}>
         <Image
           alt="travel"
-          src="/../public/background.jpg"
+          src="/background.jpg"
           layout="fill"
           objectFit="cover"
           quality={100}
