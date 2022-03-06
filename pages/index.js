@@ -22,10 +22,14 @@ export default function Home() {
         </h1>
         <Text />  
         <Footer />
-      </main>
-      
-      
+        <p className={styles.end}>Made with
+          <span role="img" aria-label="heart"> ❤️ </span>
+          &nbsp;by Linden Schrage
+        </p>
+        
 
+      </main>
     </div>
+
   )
 }
