@@ -2,23 +2,24 @@
   padding: 0 2rem;
   background-image: "/../public/background.jpg";
   width: 100%;
+  height: 100%;
 }
 
 .main {
-  min-height: 100vh;
   padding: 4rem 0;
   flex: 1;
   justify-content: center;
   flex-direction: column;
   align-items: center;
   position: fixed; /* or absolute */
-  left: 20%;
+  left: 25%;
   top:20%;
+  min-height: 100%
   
-
-
   
 }
+
+
 
 .bgWrap {
   height: 100%;
@@ -162,12 +163,12 @@
 }
 
 .end {
+
+  margin-left: 45%;
   bottom: 0%;
   position: fixed;
-  font-size: 0.5rem;
-  margin-left:0.5rem;
-  margin-right:0.5rem;
-  left: 47%;
   text-align: center;
+  font-size: 0.5rem;
+  
+  
 }
-

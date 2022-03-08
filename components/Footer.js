@@ -10,7 +10,6 @@ const Footer = () => {
           window.open("https://www.skylandtrail.org/survive-a-crisis-situation-with-dbt-distress-tolerance-skills/?gclid=CjwKCAiAsYyRBhACEiwAkJFKovMgbUgs_KCkmf1f26eB7RlCF0O7gln1mmYKLndoKvM6pL8_Xw_X2xoCASUQAvD_BwE")
         }}className={styles.newFooter}>Click to learn more about DBT coping skills</a>
         </Link>
-
     );
   };
   
